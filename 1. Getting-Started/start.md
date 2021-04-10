@@ -1,3 +1,3 @@
 ## Getting Started
 
-### Javascript로 가
+### Javascript로 가능
