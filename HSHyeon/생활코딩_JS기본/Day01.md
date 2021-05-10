@@ -4,17 +4,12 @@
 - 숫자: 따옴표("")가 붙지 않는 숫자
 - 사칙 연산
 
-    ` Math.pow(3,2)= 3^2 
-    
-    .round(x)= x 반올림
-    
-    .ceil(x) = x 올림
-    
-    .floor(x) = x 내림
-    
-    .sqrt(x) = 루트 x
-    
-    .random(0) = 0~1.0 사이 랜덤 숫자`
+    ` Math.pow(3,2)= 3^2  `
+      `  .round(x)= x 반올림
+        .ceil(x) = x 올림
+        .floor(x) = x 내림
+        .sqrt(x) = 루트 x
+        .random(0) = 0~1.0 사이 랜덤 숫자`
 
 - 데이터형 = typeof.변수
 - 따옴표 붙일 땐 앞에 \'
