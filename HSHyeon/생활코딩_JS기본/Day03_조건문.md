@@ -81,7 +81,6 @@ if(!false && !false){
 ```
 
 ---
-
 boolean의 대체제
 
 ```jsx
