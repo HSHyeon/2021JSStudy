@@ -16,7 +16,7 @@ alert('함수밖 '+vscope); //global
 ```
 var vscope = 'global';
 function fscope(){
-    vscope = 'local'; //전역변수 vscope를 local로 
+    vscope = 'local'; //전역변수 vscope를 local로 변경
     alert('함수안'+vscope); //local
 }
 fscope();
