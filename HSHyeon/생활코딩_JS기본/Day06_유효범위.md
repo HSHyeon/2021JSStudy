@@ -22,3 +22,4 @@ function fscope(){
 fscope();
 alert('함수밖'+vscope);//local 출력
 ```
+돌겠네 진짜
